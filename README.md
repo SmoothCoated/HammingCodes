@@ -1,4 +1,4 @@
-
+# Hamming Code App
 
 _A guide to Hamming codes_. These can be used to find or fix errors in data. 
 For example, the data stored in RAM (memory) can be checked using Hamming codes.
