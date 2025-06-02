@@ -12,10 +12,10 @@ Finally, there is a short description of the arithmetic used for Hamming codes.
 This app is free to download and has no adverts.
 
 
-[![gplayimage](https://github.com/vermilionpost/HammingCodes/blob/main/gplayimage.jpg)](https://firebase.google.com/support/privacy)
+[![gplayimage](https://github.com/vermilionpost/HammingCodes/blob/main/gplayimage.png)](https://firebase.google.com/support/privacy)
 
 
-![Alt Text](https://github.com/vermilionpost/HammingCodes/blob/main/gplayimage.jpg)
+![Alt Text](https://github.com/vermilionpost/HammingCodes/blob/main/gplayimage.png)
 
 
 [**_Privacy Policy_**](./privacy) 
