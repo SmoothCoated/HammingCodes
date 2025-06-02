@@ -17,6 +17,9 @@ This app is free to download and has no adverts.
 [![gplayimage1](https://github.com/user-attachments/assets/346e68d9-90cc-4def-a823-1d9f402ae40f)](https://firebase.google.com/support/privacy)
 
 
-[**_Privacy Policy_**](./privacy) 
+[***Privacy Policy***](./privacy) 
 
-[**_Terms and Conditions_**](./terms) 
+[***Terms and Conditions***](./terms) 
+
+
+_© 2021 A. Chester_
