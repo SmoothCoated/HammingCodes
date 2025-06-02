@@ -1,6 +1,6 @@
 
 
-_A guide to Hamming codes_. These can be used to find and fix errors in data. 
+_A guide to Hamming codes_. These can be used to find or fix errors in data. 
 For example, the data stored in RAM (memory) can be checked using Hamming codes.
 In this app, error detection and correction are described.
 Then a simple example is given, which shows Hamming codes being used to check data.
