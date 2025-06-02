@@ -14,7 +14,8 @@ This app is free to download and has no adverts.
 
 [![gplayimage](https://github.com/vermilionpost/HammingCodes/blob/main/gplayimage.jpg)](https://firebase.google.com/support/privacy)
 
-[![Alt Text](https://github.com/vermilionpost/HammingCodes/blob/main/gplayimage.jpg)](https://play.google.com/your-link)
+
+![Alt Text](https://github.com/vermilionpost/HammingCodes/blob/main/gplayimage.jpg)
 
 
 [**_Privacy Policy_**](./privacy) 
