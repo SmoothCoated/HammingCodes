@@ -1,15 +1,16 @@
 
 
-This app is super
+_A guide to Hamming codes_. These can be used to find and fix errors in data. 
+For example, the data stored in RAM (memory) can be checked using Hamming codes.
+In this app, error detection and correction are described.
+Then a simple example is given, which shows Hamming codes being used to check data.
+A version of the algorithm used here (written in C) can be saved to your device.
 
-### Privacy Policy
+This app also calculates Hamming codes for any data width (up to 999 bits), and the results can be saved to your device.
+Finally, there is a short description of the arithmetic used for Hamming codes.
 
-This app does **not** ofPrivacy Policyfer in-app purchases or show advertisements. I therefore do **not** collect, store, sell or share any information related to this.
-Privacy Policy
-Privacy PolicyFirebase Privacy Policy [https://firebase.google.com/support/privacy](https://firebase.google.com/support/privacy)
+This app is free to download and has no adverts.
 
-I like cheese [License](./privacy) 
+[**_Privacy Policy_**](./privacy) 
 
-### Terms and Conditions
-
-If the app crashes while you are using it, then I want to understand what happened. To do this I use Firebase Crashlytics and Firebase Analytics, which are Google products.
+[**_Terms and Conditions_**](./terms) 
