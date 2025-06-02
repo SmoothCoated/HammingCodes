@@ -11,15 +11,11 @@ Finally, there is a short description of the arithmetic used for Hamming codes.
 
 This app is free to download and has no adverts.
 
-[![gplayimage0](https://github.com/vermilionpost/HammingCode/blob/main/gplayimage.png)](https://play.google.com/store/apps/details?id=achester.com.hammingcodes)
-
-
 [![gplayimage1](https://github.com/user-attachments/assets/346e68d9-90cc-4def-a823-1d9f402ae40f)](https://play.google.com/store/apps/details?id=achester.com.hammingcodes)
-
 
 [***Privacy Policy***](./privacy) 
 
 [***Terms and Conditions***](./terms) 
 
-
 _© 2021 A. Chester_
+
