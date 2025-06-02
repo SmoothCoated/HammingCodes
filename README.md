@@ -11,6 +11,14 @@ Finally, there is a short description of the arithmetic used for Hamming codes.
 
 This app is free to download and has no adverts.
 
+![gplayimage](https://github.com/user-attachments/assets/7437f828-f1da-433e-b4b5-e889051c7b1a)
+
+
+![https://firebase.google.com/support/privacy](https://github.com/user-attachments/assets/7437f828-f1da-433e-b4b5-e889051c7b1a)
+
+
+Firebase Privacy Policy [https://firebase.google.com/support/privacy](https://firebase.google.com/support/privacy)
+
 [**_Privacy Policy_**](./privacy) 
 
 [**_Terms and Conditions_**](./terms) 
