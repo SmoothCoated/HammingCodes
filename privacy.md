@@ -17,5 +17,5 @@ Firebase Crashlytics automatically collects technical information about any cras
 Firebase Analytics gives context to the crash reports by showing the user activity prior to the crash, through a "breadcrumb log". This includes information like the approximate location (country/city), and how long the app was open. The data collected by Crashlytics and Analytics is used in an aggregated and anonymized form and is not linked to any individual user.
 You can find out more about this in the Firebase Privacy Policy [https://firebase.google.com/support/privacy](https://firebase.google.com/support/privacy)
 
-
+## SAy THESE TERMS COULD CHANGE AT ANY TIME
 
