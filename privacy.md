@@ -40,5 +40,5 @@ I may update this Privacy Policy from time to time. I will notify you of any cha
 
 ### 6. CONTACT THE DEVELOPER
 
-If you have questions, please contact me at: vermilion.post@gmail.com
+If you have questions, please contact me at: [vermilion.post@gmail.com]
 
