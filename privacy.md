@@ -8,15 +8,15 @@ This Privacy Policy outlines how the developer (A.Chester) collects, uses, and p
 
 ### 2. USER INFORMATION
 
-This App does **not** offer registration, login, or account creation. I therefore do **not** collect any direct Personally Identifiable Information such as your name, address, email address, or phone number.
+This App does **not** offer registration, login, or account creation. I therefore do **not** collect any direct personally identifiable information such as your name, address, email address, or phone number.
 
 ### 3. ANALYTICS & CRASH REPORTING
 
 To help me understand app performance and stability, and to identify and fix issues, I use Firebase Crashlytics and Firebase Analytics, which are services provided by Google.
 
-Firebase Crashlytics automatically collects technical information about any app crash event (such as stack traces, device state at the time of crash, and operating system information). This data is automatically pseudonymized (linked to a device identifier rather than your direct identity) to help me analyze and resolve crashes.
+**Firebase Crashlytics** automatically collects technical information about any app crash event (such as stack traces, device state at the time of crash, and operating system information). This data is automatically pseudonymized (linked to a device identifier rather than your direct identity) to help me analyze and resolve crashes.
 
-Firebase Analytics provides context to crash reports and general insights into app usage. It collects usage data such as:
+**Firebase Analytics** provides context to crash reports and general insights into app usage. It collects usage data such as:
 - User activity: A "breadcrumb log" of user interactions prior to a crash (e.g., screens visited, specific feature usage).
 - Approximate location: General location information (e.g., country/city) derived from your device's IP address.
 - Device information: Details like device model, operating system, and app version.
@@ -40,5 +40,5 @@ I may update this Privacy Policy from time to time. I will notify you of any cha
 
 ### 6. CONTACT THE DEVELOPER
 
-If you have questions, please contact me at: [vermilion.post@gmail.com]
+If you have questions, please contact me at: vermilion.post@gmail.com
 
