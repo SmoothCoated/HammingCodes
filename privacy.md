@@ -4,7 +4,7 @@ Last updated: 3 June 2025
 
 ### 1. INTRODUCTION
 
-This Privacy Policy describes how J.Smith / Vermillion ("we," "us," or "our") collects, uses, and discloses information in connection with your use of the Hamming Code App ("the App").
+This Privacy Policy outlines how A.Chester (the developer of the Hamming Code App, hereinafter referred to as "we," "us," or "our") collects, uses, and protects information when you use the Hamming Code App ("the App"). 
 
 ### 2. USER INFORMATION
 
@@ -30,7 +30,7 @@ The data collected by both Crashlytics and Analytics is used in an aggregated an
 
 The purpose of collecting this data is solely for improving the app's stability, performance, and overall user experience.
 
-Data Retention: The pseudonymized data collected by Firebase Analytics is retained for [e.g., 14 months – STATE YOUR ACTUAL CONFIGURED PERIOD IN FIREBASE] from the date of collection. Google's own data retention policies apply to data processed by their services.
+Data Retention: The pseudonymized data collected by Firebase Analytics is retained for 14 months from the date of collection. Google's own data retention policies apply to data processed by their services.
 
 You can find out more about how Google processes data via Firebase in the Google Privacy Policy, which applies to Firebase: [https://policies.google.com/privacy](https://policies.google.com/privacy) and also the Firebase Privacy Policy for more technical details: [https://firebase.google.com/support/privacy](https://firebase.google.com/support/privacy).
 
