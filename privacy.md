@@ -4,7 +4,7 @@ Last updated: 3 June 2025
 
 ### 1. INTRODUCTION
 
-This Privacy Policy outlines how the devloper (A.Chester) collects, uses, and protects information when you use the Hamming Code App. 
+This Privacy Policy outlines how the developer (A.Chester) collects, uses, and protects information when you use the Hamming Code App. 
 
 ### 2. USER INFORMATION
 
