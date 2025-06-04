@@ -1,4 +1,4 @@
-# Privacy Policy for Hamming Code App:
+# Privacy Policy:
 
 Last updated: 3 June 2025
 
